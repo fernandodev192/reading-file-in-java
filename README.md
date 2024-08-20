@@ -2,7 +2,7 @@
 
 ## Classes
 
-- FileRader
+- FileReader
 - BufferedReader
 
 ## Methods
