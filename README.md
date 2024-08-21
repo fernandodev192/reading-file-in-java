@@ -1,3 +1,5 @@
+<img src="./photo.jpg" alt="Image of example">
+
 # Reading File In Java
 
 ## Classes
